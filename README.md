@@ -39,3 +39,34 @@
 ---
 
 > "Logic will get you from A to B. Imagination will take you everywhere." - Albert Einstein
+
+---
+
+### 📅 My Learning Roadmap
+Action RPG 개발자로서 성장하기 위한 단계별 학습 계획입니다.
+
+#### **Phase 1: Unreal Engine Fundamentals (진행 중)**
+- [ ] C++ 기초 및 Unreal API 이해
+- [ ] 블루프린트(Blueprint) 활용 능력 숙달
+- [ ] 컴포넌트(Actor Component) 기반 설계 학습
+- [ ] Git을 활용한 버전 관리 익히기
+
+#### **Phase 2: Combat System & Animation**
+- [ ] Enhanced Input 시스템을 이용한 캐릭터 컨트롤
+- [ ] State Machine 기반의 정교한 애니메이션 구현
+- [ ] Anim Montage & Notify를 활용한 공격 콤보 시스템
+- [ ] 충돌(Collision) 처리 및 타격 판정 로직 설계
+
+#### **Phase 3: AI & Game Logic**
+- [ ] Behavior Tree & Blackboard를 활용한 적 AI 구현
+- [ ] 적의 인식 범위(Perception) 및 패턴 시스템 제작
+- [ ] 데이터 테이블(Data Table)을 활용한 스탯 관리
+- [ ] 체력바, 대미지 텍스트 등 기본적인 게임 UI(UMG) 제작
+
+#### **Phase 4: Optimization & Polish**
+- [ ] Niagara 시스템을 이용한 스킬 이펙트 추가
+- [ ] Sound Cue를 활용한 타격 사운드 입히기
+- [ ] 게임 최적화 및 프로파일링 학습
+- [ ] 최종 포트폴리오 영상 제작 및 배포
+
+---
